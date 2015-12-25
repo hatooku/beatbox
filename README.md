@@ -15,3 +15,6 @@
 - Using React.js specifically (or proving that your framework is better)
 - Having clean modular code that shows an understanding of closures and functional programming
 
+<h2>Submission</h2>
+- Fork this repo, and send a merge request only when you're ready for us to take a look!
+
