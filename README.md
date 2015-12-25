@@ -20,7 +20,7 @@
 - You have one week to build an amazing product. Good luck!
 
 <h2>Need Inspiration?</h2>
-- Try making a jukebox with the different soundtracks to get started
+- Try making a jukebox with the different soundtracks to get started!
 
 <h2>Music notes</h2>
 - Feel free to add or change music as long as you have at least 4 soundtracks and 3 sound effects.
