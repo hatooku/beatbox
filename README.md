@@ -12,7 +12,7 @@
 - Be able to explain every design choice from module layout to HTML organization.
 
 <h2>Bonus points</h2>
-- Using React.js specifically (or proving that your framework is better)
+- Using React.js specifically (or prove that your framework is better)
 - Having clean modular code that shows an understanding of closures and functional programming
 
 <h2>Submission</h2>
