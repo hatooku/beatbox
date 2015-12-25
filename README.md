@@ -19,3 +19,15 @@
 - Fork this repo, and send a merge request only when you're ready for us to take a look!
 - You have one week to build an amazing product. Good luck!
 
+<h2>Need Inspiration?</h2>
+- Try making a jukebox with the different soundtracks to get started
+
+<h2>Music notes</h2>
+- Feel free to add or change music as long as you have at least 4 soundtracks and 3 sound effects.
+  - Delete any unused music files.
+- Soundtracks were taken from http://www.indiegamemusic.com/
+  - Please check that site for details on purchasing licenses to use the music.
+  - I tried to name the file after its composed name if it has an owner.
+- Sound effects were taken from http://www.flashkit.com/soundfx/
+  - I believe the ones I chose were Freeware, but it's always good to check before using in a production setting!
+
