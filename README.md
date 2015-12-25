@@ -17,4 +17,5 @@
 
 <h2>Submission</h2>
 - Fork this repo, and send a merge request only when you're ready for us to take a look!
+- You have one week to build an amazing product. Good luck!
 
