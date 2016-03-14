@@ -2,7 +2,7 @@
 
 <h2>Goal</h2>
 - Design a fun, interactive experience that incorporates all the sounds in the ```music/``` folder.
-- A good frontend/design Lead Developer is an artist, so we're giving you full artistic license with every decision.
+- A good frontend developer is an artist, so we're giving you full artistic license with every decision.
 - Just remember to respect the Honor Code, and not just copy and paste code.
 
 <h2>Requirements</h2>
