@@ -10,6 +10,7 @@
 - Engage the user with an exciting HTML5 experience.
 - Use a modern Javascript framework just as React.js, or have clean vanilla JS.
 - Be able to explain every design choice from module layout to HTML organization.
+- If you're not comfortable with web development, feel free to use C++, Java, Python, or whatever you're comfortable with.
 
 <h2>Bonus points</h2>
 - Using React.js specifically (or prove that your framework is better)
