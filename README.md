@@ -3,6 +3,8 @@ BeatBox
 
 ![Screenshot](/home.png "Home Screen")
 
+http://hatooku.github.io/beatbox/
+
 *Play a song and create your own beat to play along!*
 
 Description
